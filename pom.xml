@@ -17,6 +17,12 @@
     </dependency>
   </dependencies>
   
+  <properties>
+    <sonar.projectKey>majid78_jenkins-sample</sonar.projectKey>
+    <sonar.organization>majid78</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+  
   <build>
    <plugins>
       <plugin>
